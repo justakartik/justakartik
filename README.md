@@ -1,4 +1,4 @@
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=justakartik&data=followers,repositories,stars,commits&theme=mountain)] (https://github.com/justakartik/)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=justakartik&data=followers,repositories,stars,commits&theme=mountain)](https://github.com/justakartik/)
 
 --- 
 
