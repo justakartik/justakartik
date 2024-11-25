@@ -1,3 +1,7 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=justakartik&data=followers,repositories,stars,commits&theme=mountain)] (https://github.com/justakartik/)
+
+--- 
+
 # 👋 Hi, I'm Kartikey Tiwari!
 
 Welcome to my GitHub profile! I'm **Kartikey Tiwari**, a passionate developer and creative mind behind [justakartik.com](https://justakartik.com). 🚀  
